@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Myfont";
+    font-weight: normal;
+    src: url("pokefont.ttf");    
+}
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    font-family: "Myfont";
+}
+
+#mytext {
+    height: 20px;
+    width: 90px;
+    background-color: cyan;
+}
+
+#h100 {
+    height: 100px;
+    width: 160px;
+    background-color: red;
+}
+
+#h80 {
+    height: 80px;
+    width: 140px;
+    background-color: orange;
+}
+
+#h60 {
+    height: 60px;
+    width: 120px;
+    background-color: yellow;
+}
+
+#h40 {
+    height: 40px;
+    width: 100px;
+    background-color: green;
+}
+
+#h20 {
+    height: 20px;
+    width: 90px;
+    background-color: blue;
+}
