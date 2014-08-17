@@ -1,7 +1,7 @@
 @font-face {
     font-family: "Myfont";
     font-weight: normal;
-    src: url("pokefont.ttf");    
+    src: url("pokefont.woff");    
 }
 
 
